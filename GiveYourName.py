@@ -7,4 +7,4 @@ print('la longueur de votre nom est:')
 print(len(myName))
 print('Quel est votre âge')#Demandez l'âge
 myAge=input()
-print('You will be'+str(int(myAge)+1)+'dans un an.')
+print('Vous aurez '+str(int(myAge)+1)+'dans un an.')
